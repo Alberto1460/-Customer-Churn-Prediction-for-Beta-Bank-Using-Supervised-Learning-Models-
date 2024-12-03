@@ -1,0 +1,2 @@
+# -Customer-Churn-Prediction-for-Beta-Bank-Using-Supervised-Learning-Models-
+Este proyecto tiene como objetivo desarrollar un modelo predictivo que identifique con precisión a los clientes de Beta Bank con mayor probabilidad de abandonar el servicio. Utilizando técnicas de aprendizaje supervisado y abordando desafíos como el desequilibrio de clases, el modelo permitirá implementar estrategias efectivas de retención.
